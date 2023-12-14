@@ -4,7 +4,7 @@ Description Concept:
 
 I wanted to develop a food truck/food stand app for all local area's. 
 In my experience food stands seem hard to come by when you want to try something new or 
-end up seeing an interesting food location next to your job, school, or home. These stands seem to always be
+end up seeing an interesting food location next to your job, school or home. These stands seem to always be
 in weird locations or show up at the most randoms times around everyone. I wanted my app to include all local food trucks
 within your area and show pictures, reviews, location, and hours of operations.
 
